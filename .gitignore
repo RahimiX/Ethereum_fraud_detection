@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets
+kaggle-example/
+Fraud-detection-dataset/second_order_df.csv
+
+# OS files
+.DS_Store
+Thumbs.db
