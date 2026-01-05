@@ -388,18 +388,6 @@ See `requirements.txt` for full list. Key dependencies:
 
 This project is for educational and research purposes.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{ethereum_fraud_detection_gnn,
-  title = {Ethereum Transaction Fraud Detection with Graph Neural Networks},
-  year = {2024},
-  author = {Your Name}
-}
-```
-
 ## Acknowledgments
 
 - PyTorch Geometric team for the excellent GNN framework
